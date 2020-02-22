@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\bin\Debug\NET Obfuscator By Prab.exe.config
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\bin\Debug\NET Obfuscator By Prab.exe
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\bin\Debug\NET Obfuscator By Prab.pdb
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\bin\Debug\dnlib.dll
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\bin\Debug\dnlib.pdb
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\bin\Debug\dnlib.xml
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\obj\Debug\NET Obfuscator.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\obj\Debug\asfpaifhaipfahfipasfhaipsfashjfpiqsfh190f1hf1ifp1hf1ipf1wf1.Form1.resources
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\obj\Debug\NET_Obfuscator_By_Prab.Properties.Resources.resources
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\obj\Debug\NET Obfuscator.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\obj\Debug\NET Obfuscator.csproj.CopyComplete
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\obj\Debug\NET Obfuscator By Prab.exe
+C:\Users\ASUS\source\repos\NET Obfuscator By Prab\obj\Debug\NET Obfuscator By Prab.pdb
